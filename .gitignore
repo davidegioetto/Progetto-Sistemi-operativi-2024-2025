@@ -1,0 +1,16 @@
+commit-style
+personal_try/
+build/
+bin/
+compile_commands.json
+build/compile_commands.json
+.cache/
+rem_ipc.sh
+temp.md
+gdb.txt
+output_test.txt
+typescript
+.vscode/
+src/stats.csv
+*.csv
+stats.csv

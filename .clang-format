@@ -1,0 +1,14 @@
+BasedOnStyle: Google
+DerivePointerAlignment: false
+PointerAlignment: Left
+IndentWidth: 2
+ColumnLimit: 100
+UseTab: Never
+SpacesBeforeTrailingComments: 1
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Inline
+BreakBeforeBraces: Allman  
+IncludeBlocks: Preserve
+SortIncludes: false
+InsertBraces: true
